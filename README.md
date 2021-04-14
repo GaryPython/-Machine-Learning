@@ -9,8 +9,19 @@
 - [ ] 隨機森林
 - [ ] 類神經網路
 - [ ] ＫＮＮ
+
+
 非監督式機器學習（Un_Supervised_Learning）
 ==========
+- [ ] PCA
+- [ ] LSA
+- [ ] NMF
+- [ ] LDA
+- [ ] K-means 分群法
+- [ ] 高斯混合法
+- [ ] LLE
+- [ ] t-SNE
+
 
 強化學習（Reinforcement learning）
 ==========
