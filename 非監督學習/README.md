@@ -1,8 +1,8 @@
 非監督式機器學習（Un_Supervised_Learning）
 ==========
 
-|  <font size=3>編號</font>  | <font size=3>名稱</font>   | <font size=3>降維</font>   |<font size=3>分群</font>   ||
-|  :---- | :---- |----:  | ----:  |----|
+|  <font size=3>編號</font>  | <font size=3>名稱</font>   | <font size=3>降維</font>   |<font size=3>分群</font>   |
+|  :---- | :---- |----:  | ----:  |
 |10.<img width=100/>      |ＰＣＡ<img width=200/>|  O       |  X      |
 |11.      |ＬＳＡ|O|X|
 |12.      |ＮＦＭ|O|X|
